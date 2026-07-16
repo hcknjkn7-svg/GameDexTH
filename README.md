@@ -1,2 +1,0 @@
-# GameDexTH
-Thai Game Guide
